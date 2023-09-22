@@ -1,0 +1,16 @@
+span {
+  color: rgb(244, 4, 4);
+  font-weight: bold;
+}
+.container-fluid {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://e0.pxfuel.com/wallpapers/754/1015/desktop-wallpaper-admin-login.jpg");
+}
+#logo {
+  border-radius: 50%;
+}
+label {
+  font-weight: bold;
+  font-size: large;
+}
